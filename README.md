@@ -5,6 +5,9 @@ Anyways, hi. I'm a developer, I guess. I mean yeah, I write stuff and do technol
 I write mainly in Python, and sometimes use Luau because of the Roblox engine *(not platform)*. 
 ~~I also don't like Windows as my main OS~~.
 
+[I also have a Gitdab account](https://gitdab.com/atlas_core), this is where I'll post lesser-known projects, spare projects or miscellaneous stuff.
+I suggest you check it out if you want to know *every* thing I make.
+
 <a href="https://github.com/atlasc0r3/github-stats">
 
 ![](https://github.com/atlasc0r3/github-stats/blob/master/generated/overview.svg)
