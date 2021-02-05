@@ -19,7 +19,7 @@ I suggest you check it out if you want to know *every* thing I make.
 - Currently also working on a Roblox project that utilizes Spotify's HTTP API
 - *Fun fact, Linux gaming isn't just "egegge use qemu for vm!!1!", it's much easier than that: it's using Proton, Wine and Lutris.*
 - You can ask me questions about pretty much anything, I might not *answer* it but..
-- How to reach me: [Discord](https://discord.com/users/333027024576970755/), [Twitter I guess](https://twitter.com/AtlasC0R3)
+- How to reach me: [Matrix.org](https://matrix.to/#/@atlas_core:matrix.org), [Discord](https://discord.com/users/333027024576970755/), [Twitter I guess](https://twitter.com/AtlasC0R3)
 
 <!--
 **AtlasC0R3/AtlasC0R3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
