@@ -8,13 +8,6 @@ I write mainly in Python, and sometimes use Luau because of the Roblox engine *(
 [I also have a Gitdab account](https://gitdab.com/atlas_core), this is where I'll post lesser-known projects, spare projects or miscellaneous stuff.
 I suggest you check it out if you want to know *every* thing I make.
 
-<a href="https://github.com/atlasc0r3/github-stats">
-
-![](https://github.com/atlasc0r3/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/atlasc0r3/github-stats/blob/master/generated/languages.svg)
-
-</a>
-
 - Currently working on a Discord.py bot, [drop-bot](https://github.com/AtlasC0R3/drop-bot)
 - Currently also working on a Roblox project that utilizes Spotify's HTTP API
 - *Fun fact, Linux gaming isn't just "egegge use qemu for vm!!1!", it's much easier than that: it's using Proton, Wine and Lutris.*
@@ -37,3 +30,10 @@ Here are some ideas to get you started:
 
 I'm keeping this in for a reference for later.
 -->
+
+<details>
+    <summary>GitHub Stats</summary>
+    <br />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=atlasc0r3&show_icons=true&theme=cobalt" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasc0r3&exclude_repo=atlasc0r3.github.io&layout=compact&theme=cobalt" />
+</details>
