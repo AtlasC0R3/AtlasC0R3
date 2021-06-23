@@ -11,6 +11,7 @@ I write mainly in Python, although I have done a few things in C/C++ and other l
 - i also wrote some python 3 chat bot moderation backend thing named [drop-mod](https://github.com/AtlasC0R3/drop-mod) and wrote a discord bot named [drop-discord](https://github.com/AtlasC0R3/drop-discord) based on that library
 - *Fun fact, Linux gaming isn't just "egegge use qemu for vm!!1!", it's much easier than that: it's using Proton, Wine and Lutris, Proton being particularly useful and fun due to being included inside Steam.*
 - i uh i like decentralized social media stuff because there's no skynet AI going to recommend me conspiracy theory stuff. what, do i look like the type of person to believe in government supremacy going to put 5G chips in child to sell their data? *what would they even have to sell?*
+- i'm also an arch linux user that hates people who just say "i use arch btw" on any occasion such as a funeral or something.
 - feel free to ask me questions. *just no weird stuff please*
 <!-- unless your name is jakaco -->
 
