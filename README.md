@@ -14,6 +14,7 @@ I write mainly in Python, although I have done a few things in C/C++ and other l
 - i'm also an arch linux user that hates people who just say "i use arch btw" on any occasion such as a funeral or something.
 - i hate most electron-based apps. i hate 'em.
 - feel free to ask me questions. *just no weird stuff please*
+- **CANADA.**
 <!-- unless your name is jakaco -->
 
 <!--
