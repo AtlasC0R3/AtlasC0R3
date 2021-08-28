@@ -45,7 +45,6 @@ I'm keeping this in for a reference for later.
     <summary>Social media I'm on</summary>
     <p align="center">
       <a rel="me" href="https://mastodon.online/@atlas_core"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mastodon/mastodon.png" alt="Mastodon" height="40" style="vertical-align:top; margin:4px"></a>
-      <a href="https://discord.com/users/333027024576970755/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" alt="Discord" height="40" style="vertical-align:top; margin:4px"></a>
       <a href="https://gitdab.com/atlas_core"> <img src="https://gitdab.com/img/gitea-lg.png" alt="Gitdab" height="40" style="vertical-align:top; margin:4px"></a>
       <!--
       <a href="https://matrix.to/#/@atlas_core:matrix.org"> <img src="https://raw.githubusercontent.com/matrix-org/matrix.org/master/content/matrix%20logo.svg" alt="Matrix.org" height="40" style="vertical-align:top; margin:4px"></a>
