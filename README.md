@@ -15,7 +15,7 @@ I write mainly in Python, although I have done a few things in C/C++ and other l
 - i hate most electron-based apps. i hate 'em.
 - feel free to ask me questions. *just no weird stuff please*
 - **CANADA.**
-<!-- unless your name is jakaco -->
+- fuck discord
 
 <!--
 **AtlasC0R3/AtlasC0R3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
