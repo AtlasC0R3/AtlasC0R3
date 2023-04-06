@@ -1,21 +1,7 @@
-### hi
-my name is atlas\_core. atlasc0r3 is my old username.
+## Hello.
+I do something.
 
-i'm a developer apparently. i guess i did write a game in c, and a few other things in python 3.
-I write mainly in Python, although I have done a few things in C/C++ and other languages. 
-~~I also don't like Windows as my main OS on my computer~~.
-
-[I also have a Gitdab account](https://gitdab.com/atlas_core), this is where I'll put other stuff.
-
-- [i made a c game](https://github.com/AtlasC0R3/dotty)
-- i also wrote some python 3 chat bot moderation backend thing named [drop-mod](https://github.com/AtlasC0R3/drop-mod) and wrote a discord bot named [drop-discord](https://github.com/AtlasC0R3/drop-discord) based on that library
-- *Fun fact, Linux gaming isn't just "egegge use qemu for vm!!1!", it's much easier than that: it's using Proton, Wine and Lutris, Proton being particularly useful and fun due to being included inside Steam.*
-- i uh i like decentralized social media stuff because there's no skynet AI going to recommend me conspiracy theory stuff. what, do i look like the type of person to believe in government supremacy going to put 5G chips in child to sell their data? *what would they even have to sell?*
-- i'm also an arch linux user that hates people who just say "i use arch btw" on any occasion such as a funeral or something.
-- i hate most electron-based apps. i hate 'em.
-- feel free to ask me questions. *just no weird stuff please*
-- **CANADA.**
-- fuck discord
+[Website link](https://rightmouse.click), [fediverse link](https://linuxrocks.online/@atlas_core)
 
 <!--
 **AtlasC0R3/AtlasC0R3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,21 +20,7 @@ Here are some ideas to get you started:
 I'm keeping this in for a reference for later.
 -->
 
-<details>
-    <summary>GitHub Stats</summary>
-    <br />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=atlasc0r3&show_icons=true&theme=cobalt" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasc0r3&exclude_repo=atlasc0r3.github.io&layout=compact&theme=cobalt" />
-</details>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=atlasc0r3&show_icons=true&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasc0r3&exclude_repo=atlasc0r3.github.io&layout=compact&theme=cobalt" />
 
-<details>
-    <summary>Social media I'm on</summary>
-    <p align="center">
-      <a rel="me" href="https://mastodon.online/@atlas_core"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mastodon/mastodon.png" alt="Mastodon" height="40" style="vertical-align:top; margin:4px"></a>
-      <!--
-      <a href="https://gitdab.com/atlas_core"> <img src="https://gitdab.com/img/gitea-lg.png" alt="Gitdab" height="40" style="vertical-align:top; margin:4px"></a>
-      -->
-      <a href="https://listenbrainz.org/user/atlas_core/"> <img src="https://raw.githubusercontent.com/metabrainz/listenbrainz-server/master/listenbrainz/webserver/static/img/favicon-256.png" alt="ListenBrainz (doxx my music taste)" height="40" style="vertical-align:top; margin:4px"></a>
-      <a href="https://matrix.to/#/@atlas_core:matrix.org"> <img src="https://matrix.org/icons/icon-256x256.png" alt="Matrix.org" height="40" style="vertical-align:top; margin:4px"></a>
-    </p>
-</details>
+![Last.fm stats](https://lastfm-recently-played.vercel.app/api?user=atlas_core&loved=true&loved_style=3&width=600)
